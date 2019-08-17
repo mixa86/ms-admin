@@ -1,0 +1,13 @@
+/*
+ * @author Mixail Sayapin
+ * https://ms-web.ru
+ */
+
+.progress-bar-danger {
+	color: red;
+	background: #FFEB3B;
+	font-weight: bold;
+}
+dropzone.dropzone {
+	display: block;
+}
